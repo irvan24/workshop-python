@@ -29,3 +29,8 @@ def findSum(str1):
 str1 = ["168", "4"]
 
 print(findSum(str1))
+
+from random import *
+
+x = randint(1, 100)    # Pick a random number between 1 and 100.
+print(x)
